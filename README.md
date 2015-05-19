@@ -1,2 +1,2 @@
 # MavenExample
-Maven Example Project.
+Maven Example Project...
